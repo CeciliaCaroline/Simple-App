@@ -1,0 +1,30 @@
+/* Container for the welcome message */
+.welcome-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+
+/* Welcome message box */
+.welcome-message-box {
+  background-color: #ffffff;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Welcome message text */
+.welcome-message-box h2 {
+  color: #333333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Username style */
+.welcome-message-box .username {
+  color: #007bff;
+  font-weight: bold;
+}
