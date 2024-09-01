@@ -1,0 +1,18 @@
+[
+  {
+  "name": "Carol",
+  "password": "carol"
+},
+{
+  "email": "user1@example.com",
+  "password": "$2b$10$Hj.N5gq9e4S9UURk5tIh2u6b3xyQGmz9yB5zKlPWhUqG1abFBcmG2"
+},
+{
+  "email": "user2@example.com",
+  "password": "$2b$10$Ys72okWGe7t9Tn7WUm72zeqGOBAlB6sK7QdHwFVBi5DJ9c8VDCzZK"
+},
+{
+  "email": "user3@example.com",
+  "password": "$2b$10$js6sKP8vZ.SaE1tbxAEM3O.DHSXn3HmnP9fN5UWfrDoWa/zJErhfu"
+}
+]
